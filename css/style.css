@@ -26,4 +26,30 @@ body {
       -ms-flex-direction: column;
           flex-direction: column;
 }
+
+.num {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+.num p {
+  margin: 0 5px;
+}
+
+.control p {
+  float: right;
+}
+
+.screen {
+  width: 450px;
+}
+
+#screen {
+  width: 100%;
+  height: 100px;
+}
 /*# sourceMappingURL=style.css.map */
