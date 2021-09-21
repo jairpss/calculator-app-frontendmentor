@@ -1,0 +1,28 @@
+{
+  "name": "calculator-app-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Calculator app coding challenge](./design/desktop-preview.jpg)",
+  "main": "postcss.config.js",
+  "dependencies": {
+    "autoprefixer": "^10.3.4",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.15",
+    "vite": "^2.5.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jairpss/calculator-app-frontendmentor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jairpss/calculator-app-frontendmentor/issues"
+  },
+  "homepage": "https://github.com/jairpss/calculator-app-frontendmentor#readme"
+}
