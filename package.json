@@ -2,7 +2,7 @@
   "name": "calculator-app-main",
   "version": "1.0.0",
   "description": "![Design preview for the Calculator app coding challenge](./design/desktop-preview.jpg)",
-  "main": "postcss.config.js",
+  "main": "index.js",
   "dependencies": {
     "autoprefixer": "^10.3.4",
     "postcss": "^8.3.6",
